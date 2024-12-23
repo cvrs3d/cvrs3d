@@ -34,6 +34,12 @@
     </a>
     <p style="margin: 5px 0 0; font-weight: bold;">Fractal Rendering</p>
   </div>
+  <div style="text-align: center;">
+    <a href="https://github.com/cvrs3d/42prague-core-push_swap">
+      <img src="https://raw.githubusercontent.com/cvrs3d/cvrs3d/main/assets/icons/c.svg" width="40" height="40" alt="C Icon">
+    </a>
+    <p style="margin: 5px 0 0; font-weight: bold;">Push Swap</p>
+  </div>
 </div>
 
 ### Python Projects
