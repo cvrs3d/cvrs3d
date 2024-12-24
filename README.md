@@ -71,5 +71,13 @@
 </div>
 
 ### Golang Projects
+<div style="display: flex; justify-content: center; align-items: center; gap: 40px;">
+  <div style="text-align: center;">
+    <a href="https://github.com/cvrs3d/codecrafters_go_myshell">
+      <img src="https://raw.githubusercontent.com/cvrs3d/cvrs3d/main/assets/icons/go.svg" width="40" height="40" alt="C Icon">
+    </a>
+    <p style="margin: 5px 0 0; font-weight: bold;">Simple Shell Project</p>
+  </div>
+</div>
 
 ### Csharp Projects
