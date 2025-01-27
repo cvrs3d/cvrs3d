@@ -5,6 +5,13 @@
 ### C/C++ Projects (42 projects included)
 <div style="display: flex; justify-content: center; align-items: center; gap: 40px;">
   <div style="text-align: center;">
+    <a href="https://github.com/cvrs3d/42prague-core-philosophers">
+      <img src="https://raw.githubusercontent.com/cvrs3d/cvrs3d/main/assets/icons/c.svg" width="40" height="40" alt="C Icon">
+    </a>
+    <p style="margin: 5px 0 0; font-weight: bold;">Philosophers</p>
+  </div>
+<div style="display: flex; justify-content: center; align-items: center; gap: 40px;">
+  <div style="text-align: center;">
     <a href="https://github.com/cvrs3d/42prague-core-libft">
       <img src="https://raw.githubusercontent.com/cvrs3d/cvrs3d/main/assets/icons/c.svg" width="40" height="40" alt="C Icon">
     </a>
