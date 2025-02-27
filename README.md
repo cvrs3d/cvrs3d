@@ -2,89 +2,26 @@
 
 [![yustinov's 42 stats](https://badge.mediaplus.ma/darkblue/yustinov)](https://github.com/oakoudad/badge42)
 
-### C/C++ Projects (42 projects included)
-<div style="display: flex; justify-content: center; align-items: center; gap: 40px;">
-  <div style="text-align: center;">
-    <a href="https://github.com/cvrs3d/42prague-core-philosophers">
-      <img src="https://raw.githubusercontent.com/cvrs3d/cvrs3d/main/assets/icons/c.svg" width="40" height="40" alt="C Icon">
-    </a>
-    <p style="margin: 5px 0 0; font-weight: bold;">Philosophers</p>
-  </div>
-<div style="display: flex; justify-content: center; align-items: center; gap: 40px;">
-  <div style="text-align: center;">
-    <a href="https://github.com/cvrs3d/42prague-core-libft">
-      <img src="https://raw.githubusercontent.com/cvrs3d/cvrs3d/main/assets/icons/c.svg" width="40" height="40" alt="C Icon">
-    </a>
-    <p style="margin: 5px 0 0; font-weight: bold;">LibFT</p>
-  </div>
-  <div style="text-align: center;">
-    <a href="https://github.com/cvrs3d/42prague-core-gnl">
-      <img src="https://raw.githubusercontent.com/cvrs3d/cvrs3d/main/assets/icons/c.svg" width="40" height="40" alt="C Icon">
-    </a>
-    <p style="margin: 5px 0 0; font-weight: bold;">Get Next Line</p>
-  </div>
-  <div style="text-align: center;">
-    <a href="https://github.com/cvrs3d/42prague-core-printf">
-      <img src="https://raw.githubusercontent.com/cvrs3d/cvrs3d/main/assets/icons/c.svg" width="40" height="40" alt="C Icon">
-    </a>
-    <p style="margin: 5px 0 0; font-weight: bold;">Printf</p>
-  </div>
-  <div style="text-align: center;">
-    <a href="https://github.com/cvrs3d/42prague-core-pipex">
-      <img src="https://raw.githubusercontent.com/cvrs3d/cvrs3d/main/assets/icons/c.svg" width="40" height="40" alt="C Icon">
-    </a>
-    <p style="margin: 5px 0 0; font-weight: bold;">Pipex</p>
-  </div>
-  <div style="text-align: center;">
-    <a href="https://github.com/cvrs3d/42prague-core-fract0l">
-      <img src="https://raw.githubusercontent.com/cvrs3d/cvrs3d/main/assets/icons/c.svg" width="40" height="40" alt="C Icon">
-    </a>
-    <p style="margin: 5px 0 0; font-weight: bold;">Fractal Rendering</p>
-  </div>
-  <div style="text-align: center;">
-    <a href="https://github.com/cvrs3d/42prague-core-push_swap">
-      <img src="https://raw.githubusercontent.com/cvrs3d/cvrs3d/main/assets/icons/c.svg" width="40" height="40" alt="C Icon">
-    </a>
-    <p style="margin: 5px 0 0; font-weight: bold;">Push Swap</p>
-  </div>
-</div>
+### 42 School Projects
+<div align="center">
 
-### Python Projects
-<div style="display: flex; justify-content: center; align-items: center; gap: 40px;">
-  <div style="text-align: center;">
-    <a href="https://github.com/cvrs3d/gin">
-      <img src="https://raw.githubusercontent.com/cvrs3d/cvrs3d/main/assets/icons/django.svg" width="40" height="40" alt="C Icon">
-    </a>
-    <p style="margin: 5px 0 0; font-weight: bold;">Github Issue Notifier</p>
-  </div>
-  <div style="text-align: center;">
-    <a href="https://github.com/cvrs3d/django_vs_flask_benchmark">
-      <img src="https://raw.githubusercontent.com/cvrs3d/cvrs3d/main/assets/icons/flask.svg" width="40" height="40" alt="C Icon">
-    </a>
-    <p style="margin: 5px 0 0; font-weight: bold;">Django vs Flask Benchmark</p>
-  </div>
-  <div style="text-align: center;">
-    <a href="https://github.com/cvrs3d/restaurant_bot">
-      <img src="https://raw.githubusercontent.com/cvrs3d/cvrs3d/main/assets/icons/python.svg" width="40" height="40" alt="C Icon">
-    </a>
-    <p style="margin: 5px 0 0; font-weight: bold;">Telegram Bot</p>
-  </div>
-  <div style="text-align: center;">
-    <a href="https://github.com/cvrs3d/lox_interpreter">
-      <img src="https://raw.githubusercontent.com/cvrs3d/cvrs3d/main/assets/icons/python.svg" width="40" height="40" alt="C Icon">
-    </a>
-    <p style="margin: 5px 0 0; font-weight: bold;">Lox Interpreter</p>
-  </div>
-</div>
+<a href="https://github.com/mcombeau/libft">![42 Badge](https://github.com/cvrs3d/)</a>
+<a href="https://github.com/mcombeau/get_next_line">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/get_next_linee.png)</a>
+<a href="https://github.com/mcombeau/ft_printf">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_printfe.png)</a>
+<a href="https://github.com/mcombeau/Born2beroot">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/born2beroote.png)</a>
+<a href="https://github.com/mcombeau/fract-ol">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/fract-ole.png)</a>
+<a href="https://github.com/mcombeau/pipex">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/pipexe.png)</a>
+<a href="https://github.com/mcombeau/push_swap">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/push_swape.png)</a>
+<a href="https://github.com/mcombeau/philosophers">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/philosopherse.png)</a>
+<a href="https://github.com/mcombeau/minishell">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minishelle.png)</a>
+<a href="https://github.com/mcombeau/net_practice">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/netpracticee.png)</a>
+<a href="https://github.com/mcombeau/Cpp_Modules">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/cppe.png)</a>
+<a href="https://github.com/mcombeau/cub3D">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/cub3de.png)</a>
+<a href="https://github.com/mcombeau/ft_irc">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_irce.png)</a>
+<a href="https://github.com/mcombeau/inception">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/inceptione.png)</a>
+<a href="https://github.com/mcombeau/ft_transcendance">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_transcendencee.png)</a>
 
-### Golang Projects
-<div style="display: flex; justify-content: center; align-items: center; gap: 40px;">
-  <div style="text-align: center;">
-    <a href="https://github.com/cvrs3d/codecrafters_go_myshell">
-      <img src="https://raw.githubusercontent.com/cvrs3d/cvrs3d/main/assets/icons/go.svg" width="40" height="40" alt="C Icon">
-    </a>
-    <p style="margin: 5px 0 0; font-weight: bold;">Simple Shell Project</p>
-  </div>
+<!-- 
+<a href="">![42 Badge](https://github.com/)</a>
+-->
 </div>
-
-### Csharp Projects
