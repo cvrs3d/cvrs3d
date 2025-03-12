@@ -83,7 +83,34 @@ I'm Yevgeniy, a student at [42 Prague](https://42prague.com/).
 #### Python
 
 <div align="center">
- <a href="https://github.com/cvrs3d/lox_interpreter">Lox Interpreter</a>
+     <table>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/cvrs3d/lox_interpreter" style="text-decoration: none; color: black;">
+                <figure>
+                    <img src="https://github.com/cvrs3d/cvrs3d/blob/main/assets/icons/pythonlogo.png" width="100"/>
+                    <figcaption><b>Lox Interpreter</b></figcaption>
+                </figure>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/cvrs3d/gin" style="text-decoration: none; color: black;">
+                <figure>
+                    <img src="https://github.com/cvrs3d/cvrs3d/blob/main/assets/icons/pythonlogo.png" width="100"/>
+                    <figcaption><b>Django vs Flask</b></figcaption>
+                </figure>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/cvrs3d/django_vs_flask_benchmark" style="text-decoration: none; color: black;">
+                <figure>
+                    <img src="https://github.com/cvrs3d/cvrs3d/blob/main/assets/icons/pythonlogo.png" width="100"/>
+                    <figcaption><b>Git Issue Notifier</b></figcaption>
+                </figure>
+            </a>
+        </td>
+    </tr>
+</table>
 </div>
 
 ---
