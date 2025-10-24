@@ -1,126 +1,19 @@
-# Hello World !
-
-I'm Yevgeniy, a student at [42 Prague](https://42prague.com/).
-</br>
-[![yustinov's 42 stats](https://badge.mediaplus.ma/binary/yustinov?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
----
-
-### 42 School Projects
-<div align="center">
-
-<table>
-    <tr>
-        <td align="center">
-            <a href="https://github.com/cvrs3d/42prague-core-libft" style="text-decoration: none; color: black;">
-                <figure>
-                    <img src="https://github.com/cvrs3d/cvrs3d/blob/main/assets/icons/C_pink.webp" width="120"/>
-                    <figcaption><b>Libft</b></figcaption>
-                </figure>
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://github.com/cvrs3d/42prague-core-gnl" style="text-decoration: none; color: black;">
-                <figure>
-                    <img src="https://github.com/cvrs3d/cvrs3d/blob/main/assets/icons/C_Logo.png" width="100"/>
-                    <figcaption><b>Get Next Line</b></figcaption>
-                </figure>
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://github.com/cvrs3d/42prague-core-printf" style="text-decoration: none; color: black;">
-                <figure>
-                    <img src="https://github.com/cvrs3d/cvrs3d/blob/main/assets/icons/C_Logo.png" width="100"/>
-                    <figcaption><b>ft_printf</b></figcaption>
-                </figure>
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td align="center">
-            <a href="https://github.com/cvrs3d/42prague-core-pipex" style="text-decoration: none; color: black;">
-                <figure>
-                    <img src="https://github.com/cvrs3d/cvrs3d/blob/main/assets/icons/C_pink.webp" width="120"/>
-                    <figcaption><b>Pipex</b></figcaption>
-                </figure>
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://github.com/cvrs3d/42prague-core-fract0l" style="text-decoration: none; color: black;">
-                <figure>
-                    <img src="https://github.com/cvrs3d/cvrs3d/blob/main/assets/icons/C_Logo.png" width="100"/>
-                    <figcaption><b>Fract-ol</b></figcaption>
-                </figure>
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://github.com/cvrs3d/42prague-core-minishell" style="text-decoration: none; color: black;">
-                <figure>
-                    <img src="https://github.com/cvrs3d/cvrs3d/blob/main/assets/icons/C_Logo.png" width="100"/>
-                    <figcaption><b>Minishell</b></figcaption>
-                </figure>
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td align="center">
-            <a href="https://github.com/cvrs3d/42prague-core-philosophers" style="text-decoration: none; color: black;">
-                <figure>
-                    <img src="https://github.com/cvrs3d/cvrs3d/blob/main/assets/icons/C_pink.webp" width="120"/>
-                    <figcaption><b>Philosophers</b></figcaption>
-                </figure>
-            </a>
-        </td>
-    </tr>
-</table>
-
-</div>
+# 💫 About Me:
+🔭 Data Engineer @ Adastra<br>🌱 I’m currently learning Data Engineering and Software Development<br>
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yevgeniy-ustinov-258608265) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ev.ustinov03@gmail.com) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=cvrs3d&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=cvrs3d&theme=synthwave&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cvrs3d&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=cvrs3d&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Other Projects
-
-#### Python
-
-<div align="center">
-     <table>
-    <tr>
-        <td align="center">
-            <a href="https://github.com/cvrs3d/lox_interpreter" style="text-decoration: none; color: black;">
-                <figure>
-                    <img src="https://github.com/cvrs3d/cvrs3d/blob/main/assets/icons/python.svg" width="100"/>
-                    <figcaption><b>Lox Interpreter</b></figcaption>
-                </figure>
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://github.com/cvrs3d/gin" style="text-decoration: none; color: black;">
-                <figure>
-                    <img src="https://github.com/cvrs3d/cvrs3d/blob/main/assets/icons/python.svg" width="100"/>
-                    <figcaption><b>Django vs Flask</b></figcaption>
-                </figure>
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://github.com/cvrs3d/django_vs_flask_benchmark" style="text-decoration: none; color: black;">
-                <figure>
-                    <img src="https://github.com/cvrs3d/cvrs3d/blob/main/assets/icons/python.svg" width="100"/>
-                    <figcaption><b>Git Issue Notifier</b></figcaption>
-                </figure>
-            </a>
-        </td>
-    </tr>
-</table>
-</div>
-
----
-
-### GitHub Stats
-
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cvrs3d&hide=java,html,css&layout=compact&theme=tokyonight&hide_title=false)](https://github.com/anuraghazra/github-readme-stats)[![cvrs3d's GitHub stats](https://github-readme-stats.vercel.app/api?username=cvrs3d&theme=tokyonight&show_icons=true&hide_rank=true&hide=issues&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
