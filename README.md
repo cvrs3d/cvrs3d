@@ -1,19 +1,38 @@
-# 💫 About Me:
-🔭 Data Engineer @ Adastra<br>🌱 I’m currently learning Data Engineering and Software Development<br>
+# Yevgeniy Ustinov
 
+Data Engineer at Adastra. I work on SQL-based data warehouse and ETL workflows, and build personal projects in Python, Go, and C.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yevgeniy-ustinov-258608265) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ev.ustinov03@gmail.com) 
+My focus is making data pipelines and backend services understandable, repeatable, and testable.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=cvrs3d&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=cvrs3d&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cvrs3d&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[LinkedIn](https://www.linkedin.com/in/yevgeniy-ustinov-258608265/) · [Email](mailto:ev.ustinov03@gmail.com)
 
----
-[![](https://visitcount.itsvg.in/api?id=cvrs3d&icon=0&color=0)](https://visitcount.itsvg.in)
+## Selected projects
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+| Project | What it demonstrates |
+| --- | --- |
+| **[Fintech Data Platform](https://github.com/cvrs3d/fintech-data-platform)** | PostgreSQL and Python ingestion, source history, dbt SCD2 dimensions and temporal joins, a daily account activity mart, Airflow orchestration, and pipeline checks in GitHub Actions. |
+| **[Mini Redis in Go](https://github.com/cvrs3d/mini-redis-go)** | A Redis-inspired TCP server: RESP parsing, concurrent clients, a synchronized in-memory store, key expiration, connection shutdown, and unit/integration tests. |
+| **[Python HTTP Server](https://github.com/cvrs3d/webserver)** | A small HTTP server built with sockets and threads: request framing, JSON endpoints, shared-state locking, and TCP/concurrency tests. |
 
+These are learning projects with explicit implementation limits. Their READMEs describe what is implemented, how to run it, and the tradeoffs involved.
+
+## Tools I use
+
+- **Data:** SQL, Python, PostgreSQL, dbt, Apache Airflow.
+- **Systems and backend:** Go, C, TCP sockets, HTTP, concurrency.
+- **Development:** Docker, Linux, Git, GitHub Actions.
+
+## 42 Prague projects
+
+My 42 coursework explores C programming, memory management, Unix processes, and concurrency.
+
+| Project | Focus |
+| --- | --- |
+| [Minishell](https://github.com/cvrs3d/42prague-core-minishell) | Shell parsing, command execution, built-ins, and redirection |
+| [Philosophers](https://github.com/cvrs3d/42prague-core-philosophers) | Threads, synchronization, and the dining philosophers problem |
+| [Pipex](https://github.com/cvrs3d/42prague-core-pipex) | Unix pipelines, processes, and file descriptors |
+| [Push Swap](https://github.com/cvrs3d/42prague-core-push_swap) | Stack-based sorting with a restricted operation set |
+| [Fractol](https://github.com/cvrs3d/42prague-core-fract0l) | Fractal rendering with C and MiniLibX |
+| [Libft](https://github.com/cvrs3d/42prague-core-libft) | String, memory, and linked-list utilities |
+| [Printf](https://github.com/cvrs3d/42prague-core-printf) | Formatted output and variadic functions |
+| [Get Next Line](https://github.com/cvrs3d/42prague-core-gnl) | Buffered line reading and persistent state |
