@@ -13,6 +13,7 @@ My focus is making data pipelines and backend services understandable, repeatabl
 | **[Fintech Data Platform](https://github.com/cvrs3d/fintech-data-platform)** | PostgreSQL and Python ingestion, source history, dbt SCD2 dimensions and temporal joins, a daily account activity mart, Airflow orchestration, and pipeline checks in GitHub Actions. |
 | **[Mini Redis in Go](https://github.com/cvrs3d/mini-redis-go)** | A Redis-inspired TCP server: RESP parsing, concurrent clients, a synchronized in-memory store, key expiration, connection shutdown, and unit/integration tests. |
 | **[Python HTTP Server](https://github.com/cvrs3d/webserver)** | A small HTTP server built with sockets and threads: request framing, JSON endpoints, shared-state locking, and TCP/concurrency tests. |
+| **[Telegram bot CoachFlow](https://github.com/cvrs3d/CoachFlow)** | A telegram bot aimed to help coaches and their clients managing workouts more easily. |
 
 These are learning projects with explicit implementation limits. Their READMEs describe what is implemented, how to run it, and the tradeoffs involved.
 
